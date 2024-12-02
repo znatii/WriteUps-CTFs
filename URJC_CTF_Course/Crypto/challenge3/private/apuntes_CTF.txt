@@ -1,0 +1,24 @@
+Herramientas útiles:
+- Cyberchef
+- Dcode.fr
+- Hash Analyzer
+...
+
+Cifrados comunes:
+- Base 64
+- Rot 13
+- XOR
+- Hexadecimal
+- ASCII
+Pueden haber muchos mas
+
+Hashes debiles:
+- MD5
+- SHA1
+...
+
+Herramientas para hashes
+- hashcat
+- JOHN THE D*CKER
+- zip2john
+...
