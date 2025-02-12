@@ -6,7 +6,7 @@ import base64
 #FLAG: URJC{M1r4_como_muEv3_Lo5_0j1t0s}
 #37g/Dn$# XOR URJC-CTF = fe-li-pe
 # Token del bot
-BOT_TOKEN = "8134898285:AAHHkBIWmAolED-PHNC4CSt0uQzYp2F3hwo"
+BOT_TOKEN = "BOT_TOKEN"
 
 # Diccionario para rastrear si un usuario está en JTD_Mode
 user_states = {}
